@@ -50,26 +50,4 @@ I'm an entry-level **Automation Tester** with expertise in **Selenium WebDriver*
 
 ---
 **"Quality in a service or product is not what you put into it; it is what the customer gets out of it."** – Peter Drucker
----
 
-<!-- Add your profile picture and content below -->
-
-<table>
-  <tr>
-    <td width="250">
-      <img src="https://github.com/your-username/profile-image.jpg" alt="Profile Image" width="200"/>
-    </td>
-    <td>
-      <h1>SK Karishma</h1>
-      <p>ISTQB Certified Software Tester</p>
-      <p>Passionate about Automation Testing and building robust solutions.</p>
-      <h3>Technologies and Tools</h3>
-      <ul>
-        <li>Selenium</li>
-        <li>TestNG</li>
-        <li>Cucumber</li>
-        <li>PostgreSQL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
